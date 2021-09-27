@@ -23,6 +23,6 @@ Prof. Dr. Jörn Schneider, Hochschule Trier\
 Prof. Dr. Ramin Tavakoli, Technische Hochschule Nürnberg\
 Prof. Dr. Thomas Thüm, Universität Ulm\
 Dr. Thomas Vogel, Humboldt Universität zu Berlin\
-Prof. Dr. Andreas Vogelsang, Universität Stuttgart\
+Prof. Dr. Andreas Vogelsang, Universität zu Köln\
 Dr. Rebekka Wohlrab, Chalmers University of Technology\
 Prof. Dr. Andreas Wortmann, Universität Stuttgart
