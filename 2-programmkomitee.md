@@ -14,7 +14,6 @@ Prof. Dr. Thomas Kropf, Robert Bosch GmbH\
 Prof. Dr. Stefan Kugele, Technische Hochschule Ingolstadt\
 Apl. Prof. Dr. Wolfgang Müller, Universität Paderborn\
 Dr. Thomas Noack, Datendeuter\
-Dr. Thomas Peikenkamp, OFFIS\
 Prof. Dr. Ralf Reißing, Hochschule Coburg\
 Prof. Dr. Eric Sax, Karlsruhe Institute of Technology (KIT)\
 Prof. Dr. Ina Schaefer, Technische Universität Braunschweig\
@@ -24,5 +23,4 @@ Prof. Dr. Ramin Tavakoli, Technische Hochschule Nürnberg\
 Prof. Dr. Thomas Thüm, Universität Ulm\
 Dr. Thomas Vogel, Humboldt Universität zu Berlin\
 Prof. Dr. Andreas Vogelsang, Universität zu Köln\
-Dr. Rebekka Wohlrab, Chalmers University of Technology\
-Prof. Dr. Andreas Wortmann, Universität Stuttgart
+Dr. Rebekka Wohlrab, Chalmers University of Technology
