@@ -22,7 +22,7 @@ Prof. Dr. Holger Schlingloff, Humboldt Universität zu Berlin\
 Prof. Dr. Jörn Schneider, Hochschule Trier\
 Prof. Dr. Ramin Tavakoli, Technische Hochschule Nürnberg\
 Prof. Dr. Thomas Thüm, Universität Ulm\
-Prof. Dr. Thomas Vogel, Humboldt Universität zu Berlin\
+Dr. Thomas Vogel, Humboldt Universität zu Berlin\
 Prof. Dr. Andreas Vogelsang, Universität Stuttgart\
 Dr. Rebekka Wohlrab, Chalmers University of Technology\
 Prof. Dr. Andreas Wortmann, Universität Stuttgart
