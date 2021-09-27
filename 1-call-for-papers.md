@@ -30,6 +30,7 @@ Finale Version: 31.01.2022
 
 ***
 
+
 Einreichungen können auf Deutsch oder Englisch erfolgen. Allerdings müssen mindestens 50% der Beiträge englischsprachig sein, um bei den CEUR Workshop-Proceedings publiziert zu werden. Aus diesem Grund werden englischsprachige Beiträge bevorzugt.
 
 Ferner sind die [GI LNI Formatvorlagen](https://gi.de/service/publikationen/lni#panel-2270-0) (1-spaltiges A4-Format) zu beachten. Alle Einreichungen werden einem PeerReview durch das Programmkomitee unterzogen. Akzeptierte Beiträge werden im Workshopband der SE2021 veröffentlicht. Für angenommene Einreichungen wird von mindestens einem der Autoren eine Registrierung für den Workshop erwartet. 
