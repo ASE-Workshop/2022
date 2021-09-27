@@ -2,7 +2,7 @@
 title: Programmkomitee
 nav: true
 ---
-__Programmkomitee (angefragt)__\
+__Programmkomitee (angefragt)__
 
 Dr. Christian Allmann, Audi AG\
 Prof. Dr. Marcel Baunach, Technische Universität Graz\
