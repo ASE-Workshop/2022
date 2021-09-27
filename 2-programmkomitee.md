@@ -17,11 +17,11 @@ Dr. Thomas Peikenkamp, OFFIS\
 Prof. Dr. Ralf Reißing, Hochschule Coburg\
 Prof. Dr. Eric Sax, Karlsruhe Institute of Technology (KIT)\
 Prof. Dr. Ina Schaefer, Technische Universität Braunschweig\
-Prof. Dr. Holger Schlingloff, Humboldt Universität zu Berlin\ 
+Prof. Dr. Holger Schlingloff, Humboldt Universität zu Berlin\
 Prof. Dr. Jörn Schneider, Hochschule Trier\
-Prof. Dr. Ramin Tavakoli, Technische Hochschule Nürnberg\ 
+Prof. Dr. Ramin Tavakoli, Technische Hochschule Nürnberg\
 Prof. Dr. Thomas Thüm, Universität Ulm\
-Prof. Dr. Thomas Vogel, Humboldt Universität zu Berlin\ 
+Prof. Dr. Thomas Vogel, Humboldt Universität zu Berlin\
 Prof. Dr. Andreas Vogelsang, Universität Stuttgart\
-Dr. Rebekka Wohlrab, Chalmers University of Technology\ 
+Dr. Rebekka Wohlrab, Chalmers University of Technology\
 Prof. Dr. Andreas Wortmann, Universität Stuttgart
