@@ -10,7 +10,7 @@ Prof. Dr. Sabine Glesner, Technische Universität Berlin\
 Dr. Kerstin Hartig, Expleo Germany\
 Prof. Dr. Paula Herber, Universität Münster\
 Prof. Dr. Thomas Kropf, Robert Bosch GmbH\
-Prof. Dr. Stefan Kugele, Technische Hochschule Ingolstadt\ 
+Prof. Dr. Stefan Kugele, Technische Hochschule Ingolstadt\
 Apl. Prof. Dr. Wolfgang Müller, Universität Paderborn\
 Dr. Thomas Noack, Datendeuter\
 Dr. Thomas Peikenkamp, OFFIS\
