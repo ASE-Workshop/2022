@@ -25,8 +25,7 @@ Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Mana
 __Wichtige Termine__\
 Einreichungsfrist: 03.12.2021\
 Benachrichtigungen: 07.01.2022\
-Finale Version: 31.01.2022
-
+Finale Version: 31.01.2022\
 ***
 
 Einreichungen können auf Deutsch oder Englisch erfolgen. Allerdings müssen mindestens 50% der Beiträge englischsprachig sein, um bei den CEUR Workshop-Proceedings publiziert zu werden. Aus diesem Grund werden englischsprachige Beiträge bevorzugt.
