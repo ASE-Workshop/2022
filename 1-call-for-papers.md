@@ -19,13 +19,13 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 - e-mobility
 
 
-Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=se2021).
+Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=se2022).
 
 ***
 __Wichtige Termine__\
-Einreichungsfrist: ~~13.12.2020~~ ~~20.12.2020~~\
-Benachrichtigungen: ~~10.01.2021~~\
-Finale Version: ~~31.01.2021~~\
+Einreichungsfrist: 03.12.2021\
+Benachrichtigungen: 07.01.2022\
+Finale Version: 31.01.2022\
 ***
 
 
@@ -33,4 +33,4 @@ Einreichungen können auf Deutsch oder Englisch erfolgen. Allerdings müssen min
 
 Ferner sind die [GI LNI Formatvorlagen](https://gi.de/service/publikationen/lni#panel-2270-0) (1-spaltiges A4-Format) zu beachten. Alle Einreichungen werden einem PeerReview durch das Programmkomitee unterzogen. Akzeptierte Beiträge werden im Workshopband der SE2021 veröffentlicht. Für angenommene Einreichungen wird von mindestens einem der Autoren eine Registrierung für den Workshop erwartet. 
 
-Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: ase2021@easychair.org
+Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: ase2022@easychair.org
