@@ -17,7 +17,7 @@ Dr. Thomas Noack, Datendeuter\
 Prof. Dr. Ralf Reißing, Hochschule Coburg\
 Prof. Dr. Eric Sax, Karlsruhe Institute of Technology (KIT)\
 Prof. Dr. Ina Schaefer, Technische Universität Braunschweig\
-Prof. Dr. Holger Schlingloff, Humboldt Universität zu Berlin\
+Prof. Dr. Holger Schlingloff, Humboldt Universität und Fraunhofer FOKUS, Berlin\
 Prof. Dr. Jörn Schneider, Hochschule Trier\
 Prof. Dr. Ramin Tavakoli, Technische Hochschule Nürnberg\
 Prof. Dr. Thomas Thüm, Universität Ulm\
