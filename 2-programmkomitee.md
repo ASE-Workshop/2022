@@ -8,7 +8,7 @@ Dr. Christian Allmann, Audi AG\
 Prof. Dr. Marcel Baunach, Technische Universität Graz\
 Dr. Mirko Conrad, samoconsult GmbH\
 Prof. Dr. Sabine Glesner, Technische Universität Berlin\
-Dr. Kerstin Hartig, Expleo Germany\
+Dr. Kerstin Hartig, Expleo Germany GmbH\
 Prof. Dr. Paula Herber, Universität Münster\
 Prof. Dr. Thomas Kropf, Robert Bosch GmbH\
 Prof. Dr. Stefan Kugele, Technische Hochschule Ingolstadt\
