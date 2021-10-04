@@ -17,6 +17,7 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 - Sicherheitsaspekte (Security und Safety)   
 - Verhaltensadaption auf Basis des Umgebungskontexts, z.B. des Fahrzeugs oder des Fahrers
 - e-mobility
+- Basissoftware und Systemdienste
 
 
 Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=se2022).
