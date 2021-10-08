@@ -20,7 +20,7 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 - Basissoftware und Systemdienste
 
 
-Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Management-System EasyChair (Link wird in Kürze hier angegeben). 
+Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=ase2022). 
 
 __Wichtige Termine__\
 Einreichungsfrist: __03.12.2021__\
