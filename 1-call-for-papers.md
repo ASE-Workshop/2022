@@ -34,4 +34,4 @@ Ferner sind die [GI LNI Formatvorlagen](https://gi.de/service/publikationen/lni#
 
 Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: ase2022@easychair.org
 
-Der CfP ist auch als [PDF-Dokument](https://github.com/ASE-Workshop/2022/blob/main/images/ASE2022-WorkshopCfP.pdf) verfügbar. 
+Der CfP ist auch als [PDF-Dokument](https://github.com/ASE-Workshop/2022/raw/main/images/ASE2022-WorkshopCfP.pdf) verfügbar. 
