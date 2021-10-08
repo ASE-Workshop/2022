@@ -32,4 +32,4 @@ Einreichungen können auf Deutsch oder Englisch erfolgen. Allerdings müssen min
 
 Ferner sind die [GI LNI Formatvorlagen](https://gi.de/service/publikationen/lni#panel-2270-0) (1-spaltiges A4-Format) zu beachten. Alle Einreichungen werden einem PeerReview durch das Programmkomitee unterzogen. Akzeptierte Beiträge werden im Workshopband der SE2022 veröffentlicht. Für angenommene Einreichungen wird von mindestens einem der Autoren eine Registrierung für den Workshop erwartet. 
 
-Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: helke.steffen@fh-swf.de
+Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: ase2021@easychair.org
