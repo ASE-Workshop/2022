@@ -58,7 +58,7 @@ table.GeneratedTable thead {
         <sup><p></p> Bevor wir die Vorteile automatisierter Fahrzeuge im täglichen Leben genießen können, muss ihre absolute Verkehrssicherheit gewährleistet sein. Denn wenn ein Auto sich selbstständig durch den Verkehr bewegen soll, muss es jede Situation meistern können. Dies nur unter realen Bedingungen zu testen, ist unmöglich. Dieses Problems nimmt sich das Projekt SET Level an. Bei SET Level geht es um das simulationsbasierte Entwickeln und Testen von automatisierten Fahrzeugen. Daran arbeiten Forscherinnen und Entwicklerinnen von 20 Projektpartnern aus Wissenschaft und Wirtschaft. Gemeinsam wird der Grundstein für eine verlässliche Überprüfung und damit für die spätere Zulassung automatisierter Fahrfunktionen gelegt.</sup>
     <tr>
       <td>09:35-10:05</td>
-      <td>Papier 1 <p></p>
+      <td>Papier 1 (Peer-Review)<p></p>
         <b>Lukas Birkemeyer</b> <br/>
         <sup> Institut für Softwaretechnik und Fahrzeuginformatik, TU Braunschweig </sup> <p></p>
         <b>Wann fahren wir autonom?</b> <br/>
