@@ -60,7 +60,7 @@ table.GeneratedTable thead {
       <td>09:35-10:05</td>
       <td>Papier 1 <p></p>
         <b>Lukas Birkemeyer</b> <br/>
-        <sup> TU Braunschweig, Institut für Softwaretechnik und Fahrzeuginformatik </sup> <p></p>
+        <sup> Institut für Softwaretechnik und Fahrzeuginformatik, TU Braunschweig </sup> <p></p>
         <b>Wann fahren wir autonom?</b> <br/>
         <b>Eine Untersuchung aus technischer und rechtlicher Sicht.</b> 
         <sup><p></p>Autonomes Fahren rückt immer mehr in den Fokus der Gesellschaft. Im Gesetz zum autonomen Fahren sieht die deutsche Bundesregierung einen Meilenstein, der die Realisierung des autonomen Fahrens ermöglicht. Dennoch sind keine serienreifen, autonomen Fahrfunktionen auf deutschen Straßen zugelassen. Wie weit sind wir noch vom Traum vom autonomen Fahren entfernt? In diesem Beitrag wird untersucht, welche offenen Fragen es aus juristischer und technischer Sicht gibt und in welchen Punkten beide Disziplinen aufeinander warten. Der aktuelle Stand wird in den Bereichen Typgenehmigung/Zulassung, Fahrerlaubnis (Führerschein) und Haftung systematisch untersucht. Mit Hilfe eines Gedankenexperiments, bei dem der menschliche Fahrer durch einen Roboterfahrer ersetzt wird, wird eine einheitliche Basis geschaffen, um automatisierte Fahrfunktionen und Fahrerassistenzsysteme zu vergleichen. Dieser Beitrag deckt offene Fragen auf, die für die Realisierung des vollständig autonomen Fahrens noch beantwortet werden müssen. Eine praktische Umsetzung erfordert eine enge interdisziplinäre Zusammenarbeit, insbesondere von Expert*innen aus den Bereichen Regulierung, Technik und Sozialwissenschaften.  <sup>
@@ -68,7 +68,7 @@ table.GeneratedTable thead {
       <td>10:05-10:35</td>
       <td>Papier 2<p></p>
         <b>Yannik Potdevin</b> <br/> 
-        <sup> Christian-Albrechts-Universität zu Kiel, Institut für Informatik </sup> <p></p>
+        <sup> Institut für Informatik, Christian-Albrechts-Universität zu Kiel</sup> <p></p>
         <b>Methode zur Bewertung der Risikobilanz autonomer Fahrzeuge aus Sicht von Fahrzeughaltern</b> 
         <sup><p></p> Wir stellen eine Methode zur Ermittlung der Risikobilanz autonomer Fahrzeuge im Vergleich zu durchschnittlicher menschlicher Fahrleistung vor. Mithilfe unserer Methode werden Fahrzeugtests zur Prüfung von autonomen Fahrzeugen entwickelt und die zugehörigen Testergebnisse bewertet. Im Rahmen von zwei Fallstudien erproben wir unsere Methode und stellen Auszüge der Ergebnisse vor.<sup>   
      <tr>
@@ -79,7 +79,7 @@ table.GeneratedTable thead {
       <td>11:00-11:30</td>
       <td>Projektvorstellung (eingeladener Vortrag)<p></p>
         <b>Alexandru Kampmann</b> <br/>
-         <sup> RWTH Aachen, Lehrstuhl Software für eingebettete Systeme</sup> <p></p>
+         <sup> Lehrstuhl Software für eingebettete Systeme, RWTH Aachen</sup> <p></p>
       <b>Die Dienste-orientierte Softwarearchitektur im UNICARagil Projekt</b> 
        <sup><p></p> Im Rahmen des vom BMBF geförderten Projekts UNICARagil haben sich die führenden deutschen Universitäten im Bereich des automatisierten Fahrens mit ausgewählten Spezialisten aus der Industrie zusammengeschlossen, um automatisierte Fahrzeuge und deren Architektur neu zu denken. Im Vorhaben werden, ausgehend von neuesten Ergebnissen der Forschung zum automatisierten und vernetzten Fahren sowie zur Elektromobilität, disruptive modulare Architekturen aus Hardware- und Softwarekomponenten für fahrerlose Fahrzeugkonzepte entwickeln. Mit der Automotive Service-oriented Software Architecture (ASOA) ist im Rahmen des Projekts eine dynamische, updatebare Softwarearchitektur entstanden. Diese bildet die Basis zur Implementierung verschiedenster Fahrzeugfunktionen im UNICARagil Projekt. Mittels konsequenter Modularität und dynamischer Laufzeitintegration schafft sie die Grundlage für updatefähige Software im Elektroniksystem für das automatisierte Fahren. Die ASOA realisiert ein modulares Softwarekonzept, das die Ausführung von Softwarediensten in einem verteilten System verschiedenster Leistungsklasse ermöglicht – von eingebetteten Systemen bis zu Hochleistungsrechnern.<sup>
     <tr>
@@ -103,7 +103,9 @@ table.GeneratedTable thead {
       <td>Pause</td>
     </tr> 
     <td>13:00-13:30</td>
-      <td>Prof. Dr. Ina Schaefer<br/> <b>Expertenausschuss Zukunftsfond Automobilindustrie im BMWi<b> <br/> 
+          <td><b>Prof. Dr. Ina Schaefer</b> <br/> 
+          <sup> Institut für Softwaretechnik und Fahrzeuginformatik, TU Braunschweig </sup> <p></p>
+          <b>Expertenausschuss Zukunftsfond Automobilindustrie im BMWi</b> <br/> 
     <tr>    
       <td>13:30-14:00</td>
       <td>Treffen der GI-Fachgruppe Automotive Software Engineering
