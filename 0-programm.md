@@ -93,7 +93,7 @@ table.GeneratedTable thead {
     <tr>
       <td>12:00-12:30</td>
       <td>Papier 4<p></p>
-        <b>Moritz Emig</b>
+        <b>Moritz Emig</b><br/> 
         <sup>Robert Bosch GmbH  </sup> <p></p>
         <b>Erweiterung von Gefahren- und Risikoanalysen der Funktionalen Sicherheit um Aspekte der Produktsicherheit nach ISO 12100</b> 
         <sup><p></p> Bei der Brose Fahrzeugteile SE & Co. KG wird eine Gefährdungs- und Risikoanalyse (HARA) nach der ISO 26262 [DI18] angewandt. Diese Analyse betrachtet zufällige oder systematische Fehlfunktionen, die durch E/E-Probleme (Elektrik/Elektronik) verursacht werden. Die HARA soll nun um die Produktsicherheit (ProSi) erweitert werden. Diesbezüglich existiert bereits ein Brose-interner Ansatz, mit welchem allerdings nur funktionale Aspekte ermittelbar sind. Bei der ProSi-HARA sollen allerdings auch nicht-funktionale Gefährdungen (NFH) berücksichtigt werden. Damit bei der ProSi-HARA-Durchführung so viele NFH wie möglich ermittelt werden können, wurde als Hilfsmittel eine Checkliste generiert. Diese basiert auf der Tabelle B.1 der ISO 12100 [DI11], die sich mit der Sicherheit von Maschinen beschäftigt. Anschließend wurden drei alternative Konzepte zur Integration der Checkliste in die ProSi-HARA erarbeitet. Die Konzepte wurden in einem Pilotprojekt bei Brose erprobt. Dabei hat sich eines der Konzepte klar mit dem besten Aufwand-Nutzenverhältnis durchgesetzt. Mittels dieser Vorgehensweise konnten mit der Checkliste eine Vielzahl eigenständiger NFH identifiziert werden, die mit der herkömmlichen HARA nicht erkannt worden wären. Mit eigenständig sind hier NFH gemeint, die nicht in Zusammenhang mit funktionalen Fehlern oder Use Cases (funktionalen Anwendungsfälle) stehen.<sup>
