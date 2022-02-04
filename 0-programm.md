@@ -68,7 +68,7 @@ table.GeneratedTable thead {
       <td>10:05-10:35</td>
       <td>Papier 2<p></p>
         <b>Yannik Potdevin</b> <br/> 
-        <sup> Institut für Informatik, Christian-Albrechts-Universität zu Kiel</sup> <p></p>
+        <sup> Arbeitsgruppe Zuverlässige Systeme, Christian-Albrechts-Universität zu Kiel</sup> <p></p>
         <b>Methode zur Bewertung der Risikobilanz autonomer Fahrzeuge aus Sicht von Fahrzeughaltern</b> 
         <sup><p></p> Wir stellen eine Methode zur Ermittlung der Risikobilanz autonomer Fahrzeuge im Vergleich zu durchschnittlicher menschlicher Fahrleistung vor. Mithilfe unserer Methode werden Fahrzeugtests zur Prüfung von autonomen Fahrzeugen entwickelt und die zugehörigen Testergebnisse bewertet. Im Rahmen von zwei Fallstudien erproben wir unsere Methode und stellen Auszüge der Ergebnisse vor.<sup>   
      <tr>
