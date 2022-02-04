@@ -55,7 +55,7 @@ table.GeneratedTable thead {
           <sup> Gründungsdirektor Institut für KI-Sicherheit (DLR)
           Department für Informatik (Uni. Oldenburg)  </sup> <p></p>
         <b>The SET Level project approaching the final sprint</b> <br/>  
-        <sup>Bevor wir die Vorteile automatisierter Fahrzeuge im täglichen Leben genießen können, muss ihre absolute Verkehrssicherheit gewährleistet sein. Denn wenn ein Auto sich selbstständig durch den Verkehr bewegen soll, muss es jede Situation meistern können. Dies nur unter realen Bedingungen zu testen, ist unmöglich. Dieses Problems nimmt sich das Projekt SET Level an. Bei SET Level geht es um das simulationsbasierte Entwickeln und Testen von automatisierten Fahrzeugen. Daran arbeiten Forscherinnen und Entwicklerinnen von 20 Projektpartnern aus Wissenschaft und Wirtschaft. Gemeinsam wird der Grundstein für eine verlässliche Überprüfung und damit für die spätere Zulassung automatisierter Fahrfunktionen gelegt.</sup>
+        <sup><p></p> Bevor wir die Vorteile automatisierter Fahrzeuge im täglichen Leben genießen können, muss ihre absolute Verkehrssicherheit gewährleistet sein. Denn wenn ein Auto sich selbstständig durch den Verkehr bewegen soll, muss es jede Situation meistern können. Dies nur unter realen Bedingungen zu testen, ist unmöglich. Dieses Problems nimmt sich das Projekt SET Level an. Bei SET Level geht es um das simulationsbasierte Entwickeln und Testen von automatisierten Fahrzeugen. Daran arbeiten Forscherinnen und Entwicklerinnen von 20 Projektpartnern aus Wissenschaft und Wirtschaft. Gemeinsam wird der Grundstein für eine verlässliche Überprüfung und damit für die spätere Zulassung automatisierter Fahrfunktionen gelegt.</sup>
     <tr>
       <td>09:35-10:05</td>
       <td>Papier 1 <p></p>
