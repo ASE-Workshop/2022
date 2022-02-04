@@ -50,7 +50,7 @@ table.GeneratedTable thead {
     </tr>
     <tr>
       <td>09:05-09:35</td>
-      <td>Projektvorstellung 1<p></p>
+      <td>Projektvorstellung (eingeladener Vortrag)<p></p>
         <b>Prof. Dr. Frank Köster</b> <br/>
           <sup> Gründungsdirektor Institut für KI-Sicherheit (DLR),
           Department für Informatik (Uni. Oldenburg)  </sup> <p></p>
@@ -77,7 +77,7 @@ table.GeneratedTable thead {
     </tr>
      <tr>
       <td>11:00-11:30</td>
-      <td>Projektvorstellung 2<p></p>
+      <td>Projektvorstellung (eingeladener Vortrag)<p></p>
         <b>Alexandru Kampmann</b> <br/>
          <sup> RWTH Aachen, Lehrstuhl Software für eingebettete Systeme</sup> <p></p>
       <b>Die Dienste-orientierte Softwarearchitektur im UNICARagil Projekt</b> 
