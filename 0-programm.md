@@ -3,7 +3,7 @@ title: Programm
 nav: true
 ---
 
-Im Folgenden finden Sie einen Überblick über das Programm. Bitte beachten Sie, dass es sich noch um einen Entwurf handelt, d.h. es sich noch geringfügige Änderungen ergeben können. Der Workshop wird über ein Zoom-Meeting ablaufen, für welches Sie die Zugangsdaten von der Konferenzorganisation zugeschickt bekommen werden.
+Im Folgenden finden Sie einen Überblick über das Programm. Der Workshop wird über ein Zoom-Meeting ablaufen, für welches Sie die Zugangsdaten von der Konferenzorganisation zugeschickt bekommen werden.
 
 ### Programm
 
