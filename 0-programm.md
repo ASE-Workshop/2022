@@ -102,11 +102,19 @@ table.GeneratedTable thead {
       <td>12:30-13:00</td>
       <td>Pause</td>
     </tr> 
-    <td>13:00-13:30</td>
+    <td>13:00-13:20</td>
           <td>Eingeladener Kurzvortrag<p></p>
            <b>Prof. Dr. Ina Schaefer</b> <br/> 
           <sup> Institut für Softwaretechnik und Fahrzeuginformatik, TU Braunschweig </sup> <p></p>
           <b>Expertenausschuss Zukunftsfond Automobilindustrie im BMWi</b> <br/> 
     <tr>    
+    </tr> 
+    <td>13:30-14:00</td>
+          <td>Eingeladener Kurzvortrag<p></p>
+           <b>Prof. Dr. Ralf Reißing</b> <br/> 
+          <sup>stellvertretender Leiter der Arbeitsgruppe "Automotive Software Tester" im German Testing Board e.V</sup> <p></p>
+          <b>Weiterentwicklung des Lehrplans "Automotive Software Tester" im Rahmen des ISTQB Certified Tester Schemas</b> 
+          <sup><p></p> Der Lehrplan für die Zertifizierung zum "Automotive Software Tester" definiert, was ein Certfied Tester Foundation Level speziell in der Automobilbranche zusätzlich beherrschen muss, um sinnvoll testen zu können. Aus dem Lehrplan werden Schulungen (2 Tage) und Zertifizierungsprüfungen abgeleitet. Der Lehrplan soll in diesem Jahr an die aktuellen Entwicklungen bei Software-Entwicklung und Regularien in der Automobilindustrie angepasst werden. In einer Diskussion mit den Teilnehmerinnen und Teilnehmern wird analysiert, was an Inhalten zum Lehrplan hinzugefügt werden sollte - und welche bisherigen Inhalte verzichtbar sind.<sup> 
+    <tr>      
       <td>13:30-14:00</td>
       <td>Treffen der GI-Fachgruppe Automotive Software Engineering
