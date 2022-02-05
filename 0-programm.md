@@ -122,6 +122,6 @@ table.GeneratedTable thead {
           <sup><p></p> Der Lehrplan für die Zertifizierung zum "Automotive Software Tester" definiert, was ein Certfied Tester Foundation Level speziell in der Automobilbranche zusätzlich beherrschen muss, um sinnvoll testen zu können. Aus dem Lehrplan werden Schulungen (2 Tage) und Zertifizierungsprüfungen abgeleitet. Der Lehrplan soll in diesem Jahr an die aktuellen Entwicklungen bei Software-Entwicklung und Regularien in der Automobilindustrie angepasst werden. In einer Diskussion mit den Teilnehmerinnen und Teilnehmern wird analysiert, was an Inhalten zum Lehrplan hinzugefügt werden sollte - und welche bisherigen Inhalte verzichtbar sind.</sup> </td>  
     <tr>      
       <td>14:00-14:30</td>
-      <td>Treffen der GI-Fachgruppe Automotive Software Engineering</td>  
+      <td><b>Treffen der GI-Fachgruppe Automotive Software Engineering</b></td>  
     </tr>  
         
