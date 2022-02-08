@@ -111,7 +111,9 @@ table.GeneratedTable thead {
           <td>Eingeladener Kurzvortrag<p></p>
            <b>Prof. Dr. Ina Schaefer</b> <br/> 
           <sup> Institut für Softwaretechnik und Fahrzeuginformatik, TU Braunschweig </sup> <p></p>
-          <b>Expertenausschuss Zukunftsfond Automobilindustrie im BMWi</b> <br/> </td>    
+          <b>Expertenausschuss Zukunftsfond Automobilindustrie im BMWi</b> 
+          <sup><p></p> Die Digitalisierung und die Dekarbonisierung sind die wesentlichen Treiber für die Transformation der deutschen Automobilindustrie. In der Konzertierten Aktion Mobilität ("Autogipfel") wurde im November 2020 die Schaffung des Zukunftsfonds Automobilindustrie mit einem Volumen von 1 Mrd. Euro beschlossen. Für den Zukunftsfond wurde ein Expertenausschuss im BMWi eingesetzt, der Förderempfehlungen für die Unterstützung der Transformation der Automobilindustrie erarbeiten sollte. Im August wurde der Bericht des Expertenausschusses der Bundeskanzlerin beim Autogipfel vorgelegt. Als Co-Vorsitzende des Expertenausschusses werde ich in diesem Vortrag aus der Arbeit aus Ausschusses und über die Förderempfehlungen und deren Umsetzung berichten. Ein wesentlicher Baustein dabei ist das Thema Automotive Software Engineering.</sup> 
+      </td>    
     </tr> 
     <tr>         
     <td>13:30-14:00</td>
