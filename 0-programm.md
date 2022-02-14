@@ -61,7 +61,7 @@ table.GeneratedTable thead {
       <td>09:35-10:05</td>
       <td>Papier 1 (Peer-Review)<p></p>
         <b>Lukas Birkemeyer und Marlene Delventhal</b> <br/>
-        <sup> Institut für Softwaretechnik und Fahrzeuginformatik, TU Braunschweig </sup> <p></p>
+        <sup> TU Braunschweig und Leibniz Universität Hannover</sup> <p></p>
         <b>Wann fahren wir autonom?</b> <br/>
         <b>Eine Untersuchung aus technischer und rechtlicher Sicht.</b> 
         <sup><p></p>Autonomes Fahren rückt immer mehr in den Fokus der Gesellschaft. Im Gesetz zum autonomen Fahren sieht die deutsche Bundesregierung einen Meilenstein, der die Realisierung des autonomen Fahrens ermöglicht. Dennoch sind keine serienreifen, autonomen Fahrfunktionen auf deutschen Straßen zugelassen. Wie weit sind wir noch vom Traum vom autonomen Fahren entfernt? In diesem Beitrag wird untersucht, welche offenen Fragen es aus juristischer und technischer Sicht gibt und in welchen Punkten beide Disziplinen aufeinander warten. Der aktuelle Stand wird in den Bereichen Typgenehmigung/Zulassung, Fahrerlaubnis (Führerschein) und Haftung systematisch untersucht. Mit Hilfe eines Gedankenexperiments, bei dem der menschliche Fahrer durch einen Roboterfahrer ersetzt wird, wird eine einheitliche Basis geschaffen, um automatisierte Fahrfunktionen und Fahrerassistenzsysteme zu vergleichen. Dieser Beitrag deckt offene Fragen auf, die für die Realisierung des vollständig autonomen Fahrens noch beantwortet werden müssen. Eine praktische Umsetzung erfordert eine enge interdisziplinäre Zusammenarbeit, insbesondere von Expert*innen aus den Bereichen Regulierung, Technik und Sozialwissenschaften.  </sup> </td>
