@@ -60,7 +60,7 @@ table.GeneratedTable thead {
     <tr>
       <td>09:35-10:05</td>
       <td>Papier 1 (Peer-Review)<p></p>
-        <b>Lukas Birkemeyer</b> <br/>
+        <b>Lukas Birkemeyer und Marlene Delventhal</b> <br/>
         <sup> Institut für Softwaretechnik und Fahrzeuginformatik, TU Braunschweig </sup> <p></p>
         <b>Wann fahren wir autonom?</b> <br/>
         <b>Eine Untersuchung aus technischer und rechtlicher Sicht.</b> 
