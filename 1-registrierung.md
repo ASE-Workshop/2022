@@ -3,7 +3,7 @@ title: Registrierung
 nav: true
 ---
 
-Dieser Workshop wird virtuell mit Hilfe der Videokonferenz-Software [Zoom](https://zoom.us/download) durchgeführt. Um an dem Workshop teilnehmen zu können, müssen Sie sich über die Seiten der [SE 2022](https://www.se-2022.de/) unter folgendem Link anmelden.
+Dieser Workshop wird virtuell mit Hilfe der Videokonferenz-Software [Zoom](https://zoom.us/download) durchgeführt. Um am Workshop teilnehmen zu können, müssen Sie sich über die Seiten der [SE 2022](https://www.se-2022.de/) unter folgendem Link anmelden.
 
 [https://pretix.eu/gi/se2022/](https://pretix.eu/gi/se2022/)
 
