@@ -3,4 +3,10 @@ title: Registrierung
 nav: true
 ---
 
-Für jedes akzeptierte Paper muss mindestens ein\*e Autor\*in registriert sein, damit das Paper in den Proceedings erscheint.  Weitere Informationen, und den Zugang zur Registrierung finden sie [hier](https://www.se-2022.de/).
+Dieser Workshop wird virtuell mit Hilfe der Videokonferenz-Software Zoom durchgeführt. Um an dem WOrkshop teilnehmen zu können, müssen Sie sich über die Seiten der [SE 2022](https://www.se-2022.de/) unter folgendem Link anmelden.
+
+[https://pretix.eu/gi/se2022/](https://pretix.eu/gi/se2022/)
+
+Die Anmeldung ist kostenfrei. Nach der Anmeldung wird Ihnen von den SE-Organisatoren ein Zugang für die Plattform Venueless bereitgestellt. Auf dieser Plattform finden Sie in der linken Menüleite ganz oben (erster Eintrag, "Workshops out of Venueless") eine Unterseite mit den Zoom-Zugangsdaten für diesen Workshop.  
+
+
