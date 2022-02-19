@@ -7,6 +7,6 @@ Dieser Workshop wird virtuell mit Hilfe der Videokonferenz-Software Zoom durchge
 
 [https://pretix.eu/gi/se2022/](https://pretix.eu/gi/se2022/)
 
-Die Anmeldung ist kostenfrei. Nach der Anmeldung wird Ihnen von den SE-Organisatoren ein Zugang für die Plattform Venueless bereitgestellt. Auf dieser Plattform finden Sie in der linken Menüleite ganz oben (erster Eintrag, "Workshops out of Venueless") eine Unterseite mit den Zoom-Zugangsdaten für diesen Workshop.  
+Die Anmeldung ist kostenfrei. Nach der Anmeldung wird Ihnen von den SE-Organisatoren ein Zugang für die Plattform Venueless bereitgestellt. Auf dieser Plattform finden Sie in der linken Menüleiste ganz oben (erster Menüeintrag "Workshops out of Venueless") eine Unterseite mit den Zoom-Zugangsdaten für diesen Workshop.  
 
-{% include figure.html img="anmeldung.png" alt="registration" width="80%" %}
+{% include figure.html img="anmeldung.jpg" alt="registration" width="80%" %}
