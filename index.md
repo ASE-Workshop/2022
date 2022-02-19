@@ -8,6 +8,8 @@ Willkommen zum 19. Workshop Automotive Software Engineering!
 [Software Engineering 2022](https://www.se-2022.de/) - 21.02.2022 - Virtuelles Format
 {: style="color:gray; font-size: 130%; text-align: center;"}
 
+Beachten Sie die [Hinweise zur Teilnahme](https://ase-workshop.github.io/2022/1-registrierung.html)
+{: style="color:gray; font-size: 130%; text-align: center;"}
 
 ## Motivation
 
